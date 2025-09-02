@@ -1,3 +1,7 @@
+## Tutorial for Next.js for deploying a webapp online with Vercel
+
+Currently up to Chapter 10 in the tutorial for now.
+
 ## Next.js App Router Course - Starter
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
